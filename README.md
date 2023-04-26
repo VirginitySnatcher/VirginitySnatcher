@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @VirginitySnatcher
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 📫 How to reach me (you don't)
+- get outta here
+
 
 <!---
 VirginitySnatcher/VirginitySnatcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
